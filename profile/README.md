@@ -4,11 +4,9 @@
 
 We design this organization to operate as a working board and no growth motivation. Fees we collect for connecting government to local data is designated for infrastructure availability. We are exploring how to incentivize local participation by providing value back to engaged citizens without betraying their anonymity for the data they provide.
 
-Our social welfare mission is concerned with the resilience and sustainability of our city. We are obliged to service a larger region than just Fort Collins, but with isolation boundaries that cohere with any civil jurisdiction where city councils have autonomy.
+Consent-driven data piles from each civil jurisdiction's individuals must physically reside in their civil boundaries.
 
-The consent-drive data piles from each civil jurisdiction's individuals must reside in their civil boundaries.
-
-We provide the template of a working board so that other jurisdictions may clone what we do with a clear mission and purpose. We form as a 501(c)(4) to handcuff sister nodes into like behavior.
+Our social welfare mission is concerned with the resilience and sustainability of our city. We are obliged to service a larger region than just Fort Collins, but with isolation boundaries that cohere with any civil jurisdiction where city councils have autonomy. We provide the template of a working board so that other jurisdictions may clone what we do with a clear mission and purpose. We form as a 501(c)(4) to handcuff sister nodes into like behavior.
 
 We propose a working board of a few specific members, but we do not restrict how many hats the individuals must wear. We operate sister nodes insofar that there is no 501(c)(4) in their own area to do the same, but we steer those nodes toward their own local funding and operational independence.
 
