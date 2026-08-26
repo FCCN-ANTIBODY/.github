@@ -10,8 +10,8 @@ Our social welfare mission is concerned with the resilience and sustainability o
 
 We propose a working board of a few specific members, but we do not restrict how many hats the individuals must wear. We operate sister nodes insofar that there is no 501(c)(4) in their own area to do the same, but we steer those nodes toward their own local funding and operational independence.
 
-1. Local government liason
-2. Legal oversight liason
+1. Local government liaison
+2. Legal oversight liaison
 3. Infrastructure operator
 4. Software governor
 5. Strategy and marketing operator
@@ -20,6 +20,12 @@ Additional collaboration with citizen committees is desirable, though the 501(c)
 
 ## Please Stand By.
 
-- [://Antibody](//antibody.discoverywritten.com) free static publishing ([source code](https://github.com/tiliv/antibody))
-- [://Anecdote](//anecdote.discoverywritten.com) local net assistant ([source code](https://github.com/tiliv/anecdote))
-- [://Atlas](//atlas.discoverywritten.com) civic software co-op  ([source code](https://github.com/tiliv/atlas))
+- (://anecdote.channel)[//anecdote.channel] local net assistant ([source code](https://github.com/FCCN-ANTIBODY/anecdote.channel))
+- (://atlas.anecdote.channel)[//atlas.anecdote.channel] Local public directories ([source code](https://github.com/FCCN-ANTIBODY/atlas.anecdote.channel))
+- (://tell.anecdote.channel)[//tell.anecdote.channel] ([source code](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel))
+- **://bottles.anecdote.channel** DDMM
+- **://antidote.anecdote.channel** ECDB
+- **WDYN**
+
+- [ ] Self-service moniker
+- [ ] Domain mapping
