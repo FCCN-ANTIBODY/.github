@@ -22,7 +22,7 @@ Additional collaboration with citizen committees is desirable, though the 501(c)
 
 - [://anecdote.channel](//anecdote.channel) local net assistant ([source code](https://github.com/FCCN-ANTIBODY/anecdote.channel))
 - [://atlas.anecdote.channel](//atlas.anecdote.channel) Local public directories ([source code](https://github.com/FCCN-ANTIBODY/atlas.anecdote.channel))
-- [://tell.anecdote.channel](//tell.anecdote.channel] ([source code](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel))
+- [://tell.anecdote.channel](//tell.anecdote.channel) Netless comms ([source code](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel))
 - **://bottles.anecdote.channel** DDMM
 - **://antidote.anecdote.channel** ECDB
 - **WDYN**
