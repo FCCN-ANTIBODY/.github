@@ -23,9 +23,21 @@ Additional collaboration with citizen committees is desirable, though the 501(c)
 - [://anecdote.channel](//anecdote.channel) local net assistant ([source code](https://github.com/FCCN-ANTIBODY/anecdote.channel))
 - [://atlas.anecdote.channel](//atlas.anecdote.channel) Local public directories ([source code](https://github.com/FCCN-ANTIBODY/atlas.anecdote.channel))
 - [://tell.anecdote.channel](//tell.anecdote.channel) Netless comms ([source code](https://github.com/FCCN-ANTIBODY/tell.anecdote.channel))
+- **://journal.anecdote.channel** Netless publishing ([source code](https://github.com/FCCN-ANTIBODY/journal.anecdote.channel))
+- ://data-pile POP driver ([source code](https://github.com/FCCN-ANTIBODY/data-pile))
+- **://antidote.anecdote.channel** ECDB ([source code](https://github.com/FCCN-ANTIBODY/antidote))
 - **://bottles.anecdote.channel** DDMM
-- **://antidote.anecdote.channel** ECDB
-- **WDYN**
 
-- [ ] Self-service moniker
-- [ ] Domain mapping
+- [://antibody.fort-collins.colorado.anecdote.channel](ANTIBODY) civic-node template ([source code](://github.com/FCCN-ANTIBODY/civic-node))
+
+26H2:
+- FCPM
+- NCCV
+- 1MC
+- SAGE
+- FCR
+- BELOVED
+- WELLING
+
+27H1:
+- WDYN
